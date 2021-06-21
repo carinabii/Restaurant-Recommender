@@ -1,0 +1,5 @@
+Kokoro Tokyo Mazesoba,Japanese,4.2,2
+Myst,Chinese,4.0,1
+Deer Garden Signatures,Chinese,3.6,1
+Gyu-Kaku Japanese BBQ,Japanese,4.1,2
+Sura Korean Cuisine,Korean,3.9,3
